@@ -2,7 +2,7 @@
 
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="space-y-10 text-center flex flex-col items-center">
-		<h2 class="h2">Home</h2>
+		<h2 class="h2">About</h2>
 		<!-- Animated Logo -->
 		<figure>
 			<section class="img-bg" />
@@ -25,6 +25,12 @@
 			</svg>
 		</figure>
 		<!-- / -->
+		<div class="space-y-2">
+			<p>
+				A hive of modern neighborhood functionality, NeighBeez seamlessly blends community building
+				with digital efficiency.
+			</p>
+		</div>
 	</div>
 </div>
 
